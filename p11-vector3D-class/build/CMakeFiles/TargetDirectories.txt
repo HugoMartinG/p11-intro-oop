@@ -1,0 +1,3 @@
+/home/iker/Descargas/p11-vector3D-class/build/CMakeFiles/vector3D_main.dir
+/home/iker/Descargas/p11-vector3D-class/build/CMakeFiles/edit_cache.dir
+/home/iker/Descargas/p11-vector3D-class/build/CMakeFiles/rebuild_cache.dir
